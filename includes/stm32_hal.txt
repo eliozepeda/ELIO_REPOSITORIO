@@ -1,0 +1,43 @@
+#define SYSCFG_SRAM2WRP_PAGE32         SYSCFG_SWPR2_PAGE32 /*!< SRAM2 Write protection page 32 */
+#define SYSCFG_SRAM2WRP_PAGE33         SYSCFG_SWPR2_PAGE33 /*!< SRAM2 Write protection page 33 */
+#define SYSCFG_SRAM2WRP_PAGE34         SYSCFG_SWPR2_PAGE34 /*!< SRAM2 Write protection page 34 */
+#define SYSCFG_SRAM2WRP_PAGE35         SYSCFG_SWPR2_PAGE35 /*!< SRAM2 Write protection page 35 */
+#define SYSCFG_SRAM2WRP_PAGE36         SYSCFG_SWPR2_PAGE36 /*!< SRAM2 Write protection page 36 */
+#define SYSCFG_SRAM2WRP_PAGE37         SYSCFG_SWPR2_PAGE37 /*!< SRAM2 Write protection page 37 */
+#define SYSCFG_SRAM2WRP_PAGE38         SYSCFG_SWPR2_PAGE38 /*!< SRAM2 Write protection page 38 */
+#define SYSCFG_SRAM2WRP_PAGE39         SYSCFG_SWPR2_PAGE39 /*!< SRAM2 Write protection page 39 */
+#define SYSCFG_SRAM2WRP_PAGE40         SYSCFG_SWPR2_PAGE40 /*!< SRAM2 Write protection page 40 */
+#define SYSCFG_SRAM2WRP_PAGE41         SYSCFG_SWPR2_PAGE41 /*!< SRAM2 Write protection page 41 */
+#define SYSCFG_SRAM2WRP_PAGE42         SYSCFG_SWPR2_PAGE42 /*!< SRAM2 Write protection page 42 */
+#define SYSCFG_SRAM2WRP_PAGE43         SYSCFG_SWPR2_PAGE43 /*!< SRAM2 Write protection page 43 */
+#define SYSCFG_SRAM2WRP_PAGE44         SYSCFG_SWPR2_PAGE44 /*!< SRAM2 Write protection page 44 */
+#define SYSCFG_SRAM2WRP_PAGE45         SYSCFG_SWPR2_PAGE45 /*!< SRAM2 Write protection page 45 */
+#define SYSCFG_SRAM2WRP_PAGE46         SYSCFG_SWPR2_PAGE46 /*!< SRAM2 Write protection page 46 */
+#define SYSCFG_SRAM2WRP_PAGE47         SYSCFG_SWPR2_PAGE47 /*!< SRAM2 Write protection page 47 */
+#define SYSCFG_SRAM2WRP_PAGE48         SYSCFG_SWPR2_PAGE48 /*!< SRAM2 Write protection page 48 */
+#define SYSCFG_SRAM2WRP_PAGE49         SYSCFG_SWPR2_PAGE49 /*!< SRAM2 Write protection page 49 */
+#define SYSCFG_SRAM2WRP_PAGE50         SYSCFG_SWPR2_PAGE50 /*!< SRAM2 Write protection page 50 */
+#define SYSCFG_SRAM2WRP_PAGE51         SYSCFG_SWPR2_PAGE51 /*!< SRAM2 Write protection page 51 */
+#define SYSCFG_SRAM2WRP_PAGE52         SYSCFG_SWPR2_PAGE52 /*!< SRAM2 Write protection page 52 */
+#define SYSCFG_SRAM2WRP_PAGE53         SYSCFG_SWPR2_PAGE53 /*!< SRAM2 Write protection page 53 */
+#define SYSCFG_SRAM2WRP_PAGE54         SYSCFG_SWPR2_PAGE54 /*!< SRAM2 Write protection page 54 */
+#define SYSCFG_SRAM2WRP_PAGE55         SYSCFG_SWPR2_PAGE55 /*!< SRAM2 Write protection page 55 */
+#define SYSCFG_SRAM2WRP_PAGE56         SYSCFG_SWPR2_PAGE56 /*!< SRAM2 Write protection page 56 */
+#define SYSCFG_SRAM2WRP_PAGE57         SYSCFG_SWPR2_PAGE57 /*!< SRAM2 Write protection page 57 */
+#define SYSCFG_SRAM2WRP_PAGE58         SYSCFG_SWPR2_PAGE58 /*!< SRAM2 Write protection page 58 */
+#define SYSCFG_SRAM2WRP_PAGE59         SYSCFG_SWPR2_PAGE59 /*!< SRAM2 Write protection page 59 */
+#define SYSCFG_SRAM2WRP_PAGE60         SYSCFG_SWPR2_PAGE60 /*!< SRAM2 Write protection page 60 */
+#define SYSCFG_SRAM2WRP_PAGE61         SYSCFG_SWPR2_PAGE61 /*!< SRAM2 Write protection page 61 */
+#define SYSCFG_SRAM2WRP_PAGE62         SYSCFG_SWPR2_PAGE62 /*!< SRAM2 Write protection page 62 */
+#define SYSCFG_SRAM2WRP_PAGE63         SYSCFG_SWPR2_PAGE63 /*!< SRAM2 Write protection page 63 */
+
+
+
+cambio 1
+
+
+
+
+/***/
+change in master
+/**/
