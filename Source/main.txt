@@ -10,7 +10,7 @@ int main(void)
 {
 
 	Analyzer_clock_init();
-	LED_blink_init();
+	LED_blink_init();ddddd
 	Button_init();
 
 }
